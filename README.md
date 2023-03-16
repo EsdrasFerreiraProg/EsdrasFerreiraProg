@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EsdrasFerreiraProg
 - 👀 I’m studying at UEPB at the Computing College Course
-- 🌱 I’m currently learning Node.js and PHP
+- 🌱 I’m a Node.js developer
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: esdras.ferreira@aluno.uepb.edu.br
 
